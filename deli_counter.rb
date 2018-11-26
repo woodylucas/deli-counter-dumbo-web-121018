@@ -7,5 +7,5 @@ def line(katz_deli)
 else 
   number = 1 
   katz_deli.each do |customer|
-    postion_in_line
+    postion_in_line <<
 end 
