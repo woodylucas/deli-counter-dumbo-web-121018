@@ -3,5 +3,5 @@ katz_deli = []
 def line(katz_deli)
   postion_in_line = []
   if katz_deli.empty?
-  puts "the line is empty"
+  puts "The line is currently empty"
 end 
