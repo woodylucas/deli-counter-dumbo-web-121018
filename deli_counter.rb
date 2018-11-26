@@ -10,5 +10,5 @@ else
     postion_in_line << "#{number}. #{customer}"
     number += 1 
   end 
-  puts "The line is currently: #{postion_in_line.join()}"
+  puts "The line is currently: #{postion_in_line.join(" ")}"
 end 
