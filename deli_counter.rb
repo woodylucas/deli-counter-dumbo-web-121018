@@ -14,4 +14,5 @@ else
 end 
 end 
 
-def 
+def take_a_number 
+end 
