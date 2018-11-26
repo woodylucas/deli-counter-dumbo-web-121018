@@ -10,5 +10,5 @@ else
     postion_in_line << "#{number}. #{customer}"
     number += 1 
   end 
-  
+  puts 
 end 
