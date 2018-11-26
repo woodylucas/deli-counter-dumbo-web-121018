@@ -10,5 +10,5 @@ else
     postion_in_line << "#{number}. #{customer}"
     number += 1 
   end 
-  puts "The line is currently"
+  puts "The line is currently:"
 end 
