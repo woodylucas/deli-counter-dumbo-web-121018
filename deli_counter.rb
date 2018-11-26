@@ -2,6 +2,6 @@
 katz_deli = []
 def line(katz_deli)
   postion_in_line = []
-  if 
+  if katz_deli.empty?
   puts "#{katz_deli} the line is empty"
 end 
