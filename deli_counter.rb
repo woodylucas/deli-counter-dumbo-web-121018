@@ -13,3 +13,5 @@ else
   puts "The line is currently: #{postion_in_line.join(" ")}"
 end 
 end 
+
+def 
